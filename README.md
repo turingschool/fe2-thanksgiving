@@ -11,5 +11,6 @@ You are not expected to be working on projects during the week off. Rather, you 
 - <a href="https://www.youtube.com/watch?v=HukePwm-XG8" target="_blank">var vs let vs const</a> (video from 2016)
 - Overview of <a href="https://owlcation.com/stem/JavaScript-Variable-Declaration-and-Initialization" target="_blank"> variable declaration and initialization</a> (just read `Creating a Variable` and `Declaration and Initialization` sections)
 - Introduction to <a href="https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-what-is-hoisting-in-javascript-a63c1b2267a1" target="_blank">hoisting</a>
+  - trying opening this in Incognito if you can't view, otherwise check out the [pdf]("./hoisting-article.pdf")
 - The <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Temporal_dead_zone" target="_blank"> temporal dead zone </a> of let and const
 
