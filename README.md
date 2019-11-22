@@ -4,6 +4,13 @@ This repo contains some extra resources for studying over the 2019 Thanksgiving 
 
 You are not expected to be working on projects during the week off. Rather, you are encouraged to work through some exercises, do readings, and watch some videos to kep up your reps while away from the basement. We would recommend putting in a average to 2 - 3 hours per day studying.
 
+
+## JSFun
+
+JSFun is full of exercises that will be good to study over the break. We would recommend working through all of the prototype problems over the break. The repo is linked below:
+[JSFun](https://github.com/turingschool-examples/jsFun)
+
+
 ## Scope Resources
 
 - <a href="https://www.youtube.com/watch?v=jT0USJeNFEA" target="\__blank">High level overview of execution contexts</a> (video)
